@@ -7,7 +7,7 @@ module.exports = {
 **· +suspectrole reset** - Resets the suspect role to undefined.
 **· +verify** -  Verify someone.
 **· +unverify** - Unverify someone.
-**· +verifier role** - Set the verifier role for using commands.]
+**· +verifierrole set** - Set the verifier role for using commands.]
 $footer[1;Executed in: $executionTime ms]
 $addTimestamp
 $image[1;https://us-east-1.tixte.net/uploads/lexerotk.tixte.co/PBGuard-banner-cropped.png]
