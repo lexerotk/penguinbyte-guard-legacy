@@ -1,0 +1,19 @@
+{
+  "name": "-asdf",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "author": "lexerotk",
+  "license": "ISC",
+  "dependencies": {
+    "@akarui/aoi.db": "^2.2.7",
+    "aoi.js": "^6.7.1",
+    "aoi.loader": "^1.0.3"
+  }
+}
