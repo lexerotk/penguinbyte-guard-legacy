@@ -1,7 +1,9 @@
-## PenguinByte Guard (Aoi.js Version)
+## PenguinByte Guard (Aoi.js Edition)
 
- A bot for keeping the PenguinByte Discord server safer.
+***Discontinued due Aoi.js limitations.***
 
-Currently discontinued because of aoi.js limitations.
+A bot for keeping the PenguinByte Discord Server safer.
 
- Made by @lexerotk
+Coded with [Aoi.js](https://aoi.js.org/)
+
+Made by [@lexerotk](https://lexerotk.github.io/)
